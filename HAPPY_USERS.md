@@ -24,8 +24,9 @@ Create a pull request and add your name above the first entry. Thanks!
 ## Our guestbook
 
 
-* YOUR NAME AND STORY
-
+* Ross WD Cameron - September 2020
+RKHunter was proving mmmmmmm, unfriendly to a sleep deprived brain and a reccomendation from a mate in New Zealand lead me to Lynis.
+Something I am very greatful for!!!
 
 * Michael Boelen - September 2019
 The development of Lynis learned me a lot about Linux and Unix security. It is
